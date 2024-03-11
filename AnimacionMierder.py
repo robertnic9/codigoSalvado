@@ -1,25 +1,4 @@
-#Ejercicios del día 23 de Febrero de 2024.
-'''
-1er paso
-~###################
-#                  #
-#                  #
-#                  #
-####################
-2º paso
-#~##################
-#                  #
-#                  #
-#                  #
-####################
-Para este programa, se tendrá que pedir al usuario 2 caracteres, el carácter
-de desplazamiento y el caracter de las paredes del rectángulo.
-Se pide que una vez pedidos los caracteres, el carácter de desplazamiento
-se 'mueva' en sentido de las agujas del reloj empezando desde la esquina
-superior izquierda hasta llegar a la posición de inicio, momento en el que el
-programa terminará.
 
-'''
 import os 
 import time
 
