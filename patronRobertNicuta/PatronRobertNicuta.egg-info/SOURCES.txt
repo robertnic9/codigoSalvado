@@ -1,0 +1,8 @@
+README.md
+setup.py
+PatronRobertNicuta.egg-info/PKG-INFO
+PatronRobertNicuta.egg-info/SOURCES.txt
+PatronRobertNicuta.egg-info/dependency_links.txt
+PatronRobertNicuta.egg-info/top_level.txt
+patronRobertNicuta/__init__.py
+patronRobertNicuta/patron_RobertNicuta_expoFP.py
